@@ -1,6 +1,6 @@
 ### 概要
 
-YouTubeの高校を自動的にスキップしてくれるchrome拡張
+YouTubeの広告を自動的にスキップしてくれるchrome拡張
 
 ### できること
 * 動画のスキップ(beta)
@@ -15,3 +15,6 @@ YouTubeの高校を自動的にスキップしてくれるchrome拡張
 
 * 最終的にこうなる
 <img width="432" alt="スクリーンショット 2022-03-30 1 08 00" src="https://user-images.githubusercontent.com/47171414/160656472-058a5c98-8372-4d95-bd6d-8bf4fe2f8f17.png">
+
+### 今後やりたいこと
+* 下に出るバナーも消すようにしたい
