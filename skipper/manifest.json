@@ -1,0 +1,10 @@
+{
+  "name": "Hello, World!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [{
+    "matches": ["https://www.youtube.com/watch*"],
+    "js": ["script.js"]
+  }],
+  "action": {}
+}
