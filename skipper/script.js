@@ -8,7 +8,6 @@ for (let i = 0; i < 10; i++) {
     nums.push(String(i))
 }
 const identifier = alphabets.concat(nums)
-console.log(identifier)
 
 setInterval(() => {
     identifier.forEach(function (c1) {
