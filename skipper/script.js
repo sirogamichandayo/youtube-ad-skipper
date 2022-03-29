@@ -12,7 +12,7 @@ const identifier = alphabets.concat(nums)
 setInterval(() => {
     identifier.forEach(function (c1) {
         identifier.forEach(function (c2) {
-            const s1 = '#skip-button\\:' + c1 + c2 +' > span > button'
+            const s1 = '#skip-button\\:' + c1 + c2  +' > span > button'
             const b1 = document.querySelector(s1);
             if (b1 != null) {
                 b1.click();
