@@ -1,5 +1,5 @@
 {
-  "name": "Hello, World!",
+  "name": "Youtube Ad Skipper",
   "version": "1.0",
   "manifest_version": 3,
   "content_scripts": [{
