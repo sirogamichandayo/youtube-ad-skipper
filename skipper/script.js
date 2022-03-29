@@ -18,7 +18,7 @@ setInterval(() => {
                 b1.click();
             }
 
-            const s2 = '#preskip-component\:' + c1 + c2 + ' > span'
+            const s2 = '#preskip-component\\:' + c1 + c2 + ' > span'
             const b2 = document.querySelector(s2)
             if (b2 != null) {
                 b2.click();
